@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    //Theme1
+    <color name="colorBackgound1">#E0B941</color>
+    <color name="colorButton1">#41E0B9</color>
+    <color name="colorTextView1">#FF000000</color>
+    //Theme2
+    <color name="colorBackgound2">#E06E3A</color>
+    <color name="colorButton2">#6EE13B</color>
+    <color name="colorTextView2">#4C54E0</color>
+</resources>

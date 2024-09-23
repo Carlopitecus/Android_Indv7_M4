@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Individual_7</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="appwidget_3">Search</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description4">Pollo</string>
+    <string name="app_widget_description1">Hora</string>
+    <string name="app_widget_description">texto</string>
+</resources>
